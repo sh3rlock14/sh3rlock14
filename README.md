@@ -6,4 +6,3 @@
 - ❤️ I'm in love with Computer Vision 
 - 🔭 I’m currently working on an OCR for Unstructured Data  
 - 🌱 I’m currently learning Data Engineer skills and base knowledge
--->
