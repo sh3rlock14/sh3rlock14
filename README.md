@@ -1,6 +1,6 @@
 ### Hi there 👋
 
----
+<hr style="border:1px solid red">
 
 - 👨‍🎓 I'm graduated in Computer Science at Sapienza, University of Rome
 - ❤️ I'm in love with Computer Vision 
